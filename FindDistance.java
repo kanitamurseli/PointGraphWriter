@@ -1,3 +1,4 @@
+import java.util.*;
 import javax.swing.*;
 public class FindDistance {
 String input1 = JOptionPane.showInputDialog("Type the value for the initial velocity: ");
