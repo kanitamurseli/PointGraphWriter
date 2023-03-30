@@ -30,6 +30,7 @@ x_1 = x_label;
 y_1 = y_label;
 this.repaint();
 }
+//metoda per krijimin e boshteve
 private void setAxes(Graphics g) {
 g.setColor(Color.red);
 g.drawLine(x_position, y_position, x_position+length, y_position);
